@@ -1,6 +1,5 @@
 # Hi there, I'm Mariam 👋
 
-![Follow](https://img.shields.io/github/followers/mariamabdk3m?label=Follow&style=social)
 
 ## Mariam's GitHub Stats
 
