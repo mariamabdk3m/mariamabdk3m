@@ -26,4 +26,4 @@ I'm a passionate software developer with a knack for problem-solving and a love 
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
 
 ## 🌐 Connect with Me
-- [LinkedIn]([https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE](https://www.linkedin.com/in/mariam-abdelmagied-28b381197/))
+- [LinkedIn] https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE](https://www.linkedin.com/in/mariam-abdelmagied-28b381197/
