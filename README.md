@@ -3,7 +3,19 @@
 
 ## Mariam's GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mariamabdk3m&show_icons=true&theme=radical)
+![Mariam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariamabdk3m&show_icons=true&theme=radical)
+
+## 🔥 GitHub Streak
+
+![Mariam's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mariamabdk3m&theme=radical)
+
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamabdk3m&layout=compact&theme=radical)
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=mariamabdk3m&theme=radical&no-frame=true&column=7)
 
 ## 🧑‍💻 About Me
 I'm a passionate software developer with a knack for problem-solving and a love for creating impactful solutions. Whether it's front-end, back-end, or anything in between, I enjoy diving into all aspects of development.
