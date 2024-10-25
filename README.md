@@ -13,10 +13,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamabdk3m&layout=compact&theme=radical)
 
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=mariamabdk3m&theme=radical&no-frame=true&column=7)
-
 ## 🧑‍💻 About Me
 I'm a passionate software developer with a knack for problem-solving and a love for creating impactful solutions. Whether it's front-end, back-end, or anything in between, I enjoy diving into all aspects of development.
 
